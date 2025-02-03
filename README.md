@@ -18,13 +18,8 @@ This project is developed under the Smart India Hackathon (SIH) initiative. The 
 - Fast & Efficient Cleaning – Provides superior cleaning performance.  
 - 5G Connectivity – Enables remote monitoring and control.
 
-## Design Model 
-
-![image](https://github.com/user-attachments/assets/74ea82f4-c72d-42b5-9939-e067dc828f52)
-
-![image](https://github.com/user-attachments/assets/d4ce491c-6690-4b91-b408-f435414d8429)
-
-![image](https://github.com/user-attachments/assets/85bb2d6f-4d0f-4d69-b146-87bbdf4a105c)
+## Flow Chart
+![image](https://github.com/user-attachments/assets/33380ea0-2a08-42a7-8676-1072257bb5e3)
 
 ## Technology Stack  
 - **Hardware Components:** Ultrasonic Sensors, Cliff Sensors, Optical Encoders, Pressure Sensors, Wall Sensors.  
@@ -34,6 +29,15 @@ This project is developed under the Smart India Hackathon (SIH) initiative. The 
   - Fusion 360 (for design & simulation)  
 - **Manufacturing:** SLS 3D Printing Method  
 - **Power System:** Lithium Polymer Battery & Solar Power  
+
+## Design Model 
+
+![image](https://github.com/user-attachments/assets/74ea82f4-c72d-42b5-9939-e067dc828f52)
+
+![image](https://github.com/user-attachments/assets/d4ce491c-6690-4b91-b408-f435414d8429)
+
+![image](https://github.com/user-attachments/assets/85bb2d6f-4d0f-4d69-b146-87bbdf4a105c)
+
 
 ## Use Cases  
 - Hospitals and Hotels – Ensures hygiene and cleanliness without human intervention.  
@@ -47,7 +51,9 @@ This project is developed under the Smart India Hackathon (SIH) initiative. The 
 ## Target Customers  
 - MNCs  
 - Large Industries  
-- Commercial Organizations  
+- Commercial Organizations
+
+##
 
 ## License  
 This project is open-source and available under the MIT License.  
