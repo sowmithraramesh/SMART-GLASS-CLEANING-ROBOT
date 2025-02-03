@@ -19,7 +19,7 @@ This project is developed under the Smart India Hackathon (SIH) initiative. The 
 - 5G Connectivity – Enables remote monitoring and control.
 
 ## Flow Chart
-![image](https://github.com/user-attachments/assets/33380ea0-2a08-42a7-8676-1072257bb5e3)
+![image](https://github.com/user-attachments/assets/488d6753-c11e-4887-b795-7bb35ab31bfe)
 
 ## Technology Stack  
 - **Hardware Components:** Ultrasonic Sensors, Cliff Sensors, Optical Encoders, Pressure Sensors, Wall Sensors.  
